@@ -1,0 +1,5 @@
+com\account\AccountApplication.class
+com\account\model\Customer.class
+com\account\controller\AccountsController.class
+com\account\model\Accounts.class
+com\account\repository\AccountsRepository.class
